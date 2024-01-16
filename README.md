@@ -2,8 +2,6 @@
 
 Passionate Web and Game Developer | IN
 
-<hr>
-
 🚀 I'm a creative developer with a focus on crafting immersive web experiences and engaging game worlds. Constantly exploring new technologies to bring ideas to life.
 
 ## 🛠️ Technologies & Tools
