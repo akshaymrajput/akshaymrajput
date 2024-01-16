@@ -6,12 +6,12 @@ Passionate Web and Game Developer | IN
 
 ## 🛠️ Technologies & Tools
 
-- Frontend: HTML5, CSS3, JavaScript, React, Next JS, TailwindCSS
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL, PostgreSQL
-- Game Development: Unity, C#, Unreal Engine, UE Blueprints
-- Testing & Automation: Puppeteer
-- Tools: Git, VS Code, Photoshop, Blender
+- Frontend: **HTML5, CSS3, JavaScript, React, Next JS, TailwindCSS**
+- Backend: **Node.js, Express**
+- Database: **MongoDB, MySQL, PostgreSQL**
+- Game Development: **Unity, C#, Unreal Engine, UE Blueprints**
+- Testing & Automation: **Puppeteer**
+- Tools: **Git, VS Code, Photoshop, Blender**
 
 ## 📊 GitHub Stats
 
