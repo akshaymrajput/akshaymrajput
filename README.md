@@ -10,7 +10,7 @@ Passionate Web and Game Developer | IN
 - Backend: **Node.js, Express**
 - Database: **MongoDB, MySQL, PostgreSQL**
 - Game Development: **Unity, C#, Unreal Engine, UE Blueprints**
-- Testing & Automation: **Puppeteer**
+- Testing & Automation: **Puppeteer, Jest**
 - Tools: **Git, VS Code, Photoshop, Blender**
 
 ## 📊 GitHub Stats
